@@ -1,0 +1,10 @@
+date,campaign_name,spend,clicks,conversions,conversion_value,final_url
+2024-01-15,winter_sale_2024,540.00,620,2,375.49,https://store.com/products/jacket
+2024-01-15,brand_awareness,280.00,890,0,0.00,https://store.com/
+2024-01-16,winter_sale_2024,495.00,580,2,277.50,https://store.com/products/gloves
+2024-01-16,brand_awareness,310.00,1020,1,420.00,https://store.com/
+2024-01-17,winter_sale_2024,620.00,710,1,88.00,https://store.com/products/hat
+2024-01-17,brand_awareness,290.00,940,1,215.00,https://store.com/products/coat
+2024-01-18,winter_sale_2024,575.00,660,1,445.00,https://store.com/products/boots
+2024-01-18,brand_awareness,320.00,1100,1,305.00,https://store.com/
+2024-01-18,remarketing_google,205.00,2100,0,0.00,https://store.com/collections/sale
