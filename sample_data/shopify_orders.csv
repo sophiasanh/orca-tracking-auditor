@@ -1,0 +1,21 @@
+date,order_id,revenue,source,utm_source,utm_medium,utm_campaign,landing_page
+2024-01-15,1001,129.99,google,google,cpc,winter_sale_2024,/products/jacket
+2024-01-15,1002,89.00,facebook,Facebook,Paid,WinterSale,/collections/sale
+2024-01-15,1003,245.50,google,google,cpc,winter_sale_2024,/products/boots
+2024-01-15,1004,55.00,,,,, /
+2024-01-15,1005,310.00,facebook,facebook,paid,winter-sale-2024,/products/coat
+2024-01-16,1006,78.50,google,Google,CPC,Winter_Sale_2024,/products/gloves
+2024-01-16,1007,199.00,facebook,facebook,paid,winter_sale_2024,/products/sweater
+2024-01-16,1008,420.00,google,google,cpc,brand_awareness,/
+2024-01-16,1009,95.00,,,,,
+2024-01-16,1010,160.00,facebook,facebook,paid,retargeting_jan,/products/boots
+2024-01-17,1011,88.00,google,google,cpc,winter_sale_2024,/products/hat
+2024-01-17,1012,340.00,facebook,Facebook,Paid,WinterSale,/products/jacket
+2024-01-17,1013,72.00,,,,,
+2024-01-17,1014,215.00,google,google,cpc,brand_awareness,/products/coat
+2024-01-17,1015,130.00,facebook,facebook,paid,retargeting_jan,/collections/new
+2024-01-18,1016,445.00,google,google,cpc,winter_sale_2024,/products/boots
+2024-01-18,1017,92.00,facebook,facebook,paid,winter_sale_2024,/products/gloves
+2024-01-18,1018,178.00,,,,,
+2024-01-18,1019,305.00,google,google,cpc,brand_awareness,/
+2024-01-18,1020,67.00,facebook,facebook,paid,winter-sale-2024,/products/hat
